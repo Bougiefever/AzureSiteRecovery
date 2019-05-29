@@ -18,7 +18,7 @@ The process to create the recovery pre and post scripts are below:
 
 4. Any failures in the script are ignored and ASR recovery point creation process will proceed as usual
 
-Your Linux VM needs to be running agent version 25 or greater:
+Your Linux VM needs to be running agent version 24 or greater:
 
 ![import](asr_agent_version.png)
 
