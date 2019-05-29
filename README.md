@@ -43,7 +43,7 @@ Here is a sample bash script for testing:
 
 ```
 
-You also need to open up outbout ports:
+You also need to open up outbound ports on the VM:
 
 
 https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-about-networking#outbound-connectivity-for-ip-address-ranges
